@@ -1,0 +1,13 @@
+ Your data markers:
+  - Reflect the magnitude of the earthquake by their size and depth of the earthquake by color
+  - Earthquakes with higher magnitudes should appear larger
+  - Earthquakes with greater depth should appear darker in color
+
+Hint: The depth of the earth can be found as the third coordinate for each earthquake.
+
+ Popups: 
+  - Provide additional information about the earthquake when its associated marker is clicked.
+
+Create a legend
+  - Provides context for your map data.
+  - Green (Least) scales to Red (Greatest)
