@@ -11,3 +11,5 @@ Hint: The depth of the earth can be found as the third coordinate for each earth
 Create a legend
   - Provides context for your map data.
   - Green (Least) scales to Red (Greatest)
+
+  #FF0D0D, #FF4E11,#FF8E15, #FAB733, #D3DB40, #69B34C
